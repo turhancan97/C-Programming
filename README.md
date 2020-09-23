@@ -1,2 +1,2 @@
-# C-Programming
-Microprocessor Lecture Homeworks
+# C Programming
+C Programming codes
